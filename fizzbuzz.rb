@@ -9,8 +9,5 @@ if x is % 3 == 0
   elsif x is % 5 == 0
     print "Buzz"
   
-  elsif x is % 15 == 0
-    print "FizzBuzz"
-
 end 
 end
