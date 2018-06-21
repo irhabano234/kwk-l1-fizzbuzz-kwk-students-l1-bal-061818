@@ -1,4 +1,8 @@
 def fizzbuzz (x)
+
+ elsif x is % 15 == 0
+    print "FizzBuzz"
+
 if x is % 3 == 0
   print "Fizz"
   
