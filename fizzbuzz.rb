@@ -1,0 +1,12 @@
+def fizzbuzz (x)
+if x is % 3 == 0
+  print "Fizz"
+  
+  elsif x is % 5 == 0
+    print "Buzz"
+  
+  elsif x is % 15 == 0
+    print "FizzBuzz"
+
+end 
+end
